@@ -1,5 +1,5 @@
 # AutoSauce
-**Ultimate Claude Code Framework**
+**The Ultimate Claude Code Framework**
 
 ![AutoSauce](https://raw.githubusercontent.com/brennercruvinel/AutoSauce/99df4833a19bd85aa3058765f2d9a68e89a55685/auto-sauce-brenner-cruvinel-claude-code.png)
 
