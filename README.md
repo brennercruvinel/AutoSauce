@@ -38,5 +38,6 @@ Release date to be announced.
 ---
 
 **Built by [@brennercruvinel](https://github.com/brennercruvinel)**
-
+this is maintained by brenner cruvinel (brenner@hoffresearch.com).
+all contributions are welcome.
 *This project is not affiliated with, endorsed by, or sponsored by Anthropic. Claude is a trademark of Anthropic, PBC.*
